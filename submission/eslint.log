@@ -1,0 +1,11 @@
+
+> assignment5-6@1.0.1 eslint C:\assignment
+> eslint src/**/*.js
+
+
+C:\assignment\src\script.js
+  74:25  warning  Expected '!==' and instead saw '!='  eqeqeq
+  80:28  warning  Expected '!==' and instead saw '!='  eqeqeq
+
+✖ 2 problems (0 errors, 2 warnings)
+
